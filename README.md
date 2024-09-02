@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IamRonyDas
-- 👀 I’m interested in Web Development,Problem Solving and Competitive Programming
+- 👀 I have experience in Web Development,Flutter Devlopment and Competitive Programming
 - 🌱 I’m currently learning Backend Development
-- 💞️ I’m looking to collaborate on Frontend Projects
+- 💞️ I’m looking to collaborate on Frontend Projects and FullStack Projects
 - 📫 How to reach me LinkedIN-https://www.linkedin.com/in/abhishek-das-62401a21b/
 
 <!---
