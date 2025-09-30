@@ -30,7 +30,7 @@ Core CS: DSA, DBMS, OOP, SOLID Principles
 🔹 AI News App (Android)
  — Kotlin, MVVM, Gemini API, Retrofit
 
-🔹 Smart Job Application Tracker
+🔹 Smart Job Application Tracker (Link - https://smart-application-tracker.vercel.app/)
  — Next.js, MongoDB, JWT, Gemini API Live Demo
 
 
@@ -42,6 +42,6 @@ Core CS: DSA, DBMS, OOP, SOLID Principles
 
 📧 Email: asisdas751@gmail.com
 
-👨‍💻 LeetCode: Profile
+👨‍💻 LeetCode: Profile(https://leetcode.com/u/Abhishek_Das_0205/)
 
 ✨ “Code. Debug. Improve. Repeat.”
